@@ -1,5 +1,5 @@
 {
   "accounts": {
-    { "id": 1, "name": "Kyle", "type": "Checking Account", "balance": 790.00 }
+    { "id": 1, "name": "Kyle", "type": "Checking Account", "balance": 790 }
   }
 }
